@@ -1,5 +1,3 @@
-<<<<<<< HEAD
-
 const t_name = document.getElementById('name');
 const t_email = document.getElementById('email');
 const t_phone = document.getElementById('phone');
@@ -275,6 +273,4 @@ supports()	Returns true if a token is one of an attribute's supported tokens
 toggle()	Toggles between tokens in the list
 value	Returns the token list as a string
 values()	Returns an Iterator with the values in the list
-
->>>>>>> 7aef0e909da3e67d225aab7a81bbb1225fbddf39
 */
